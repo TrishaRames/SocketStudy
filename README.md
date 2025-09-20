@@ -109,8 +109,10 @@ server_socket.close()
 
 ```
 # output :
-
+client
 <img width="1026" height="103" alt="image" src="https://github.com/user-attachments/assets/2815ef54-57fc-4e95-9b12-64cffcfeb927" />
+sever 
+<img width="788" height="108" alt="image" src="https://github.com/user-attachments/assets/9224d3a4-ef43-4edb-8cbd-17fa5be70f90" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
